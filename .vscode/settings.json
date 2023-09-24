@@ -4,6 +4,14 @@
     "source.organizeImports": true
   },
   "editor.formatOnSave": true,
+  "material-icon-theme.files.associations": {
+    "extensions.json": "vscode",
+    "launch.json": "vscode",
+    "settings.json": "vscode",
+    "tasks.json": "vscode",
+    ".czrc": "commitlint",
+    ".prettiercache": "prettier"
+  },
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "stylelint.validate": ["scss"],
   "eslint.options": {
