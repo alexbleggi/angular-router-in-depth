@@ -1,0 +1,13 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true,
+    "source.organizeImports": true
+  },
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "stylelint.validate": ["scss"],
+  "eslint.options": {
+    "extensions": [".ts", ".html"]
+  },
+  "eslint.validate": ["typescript", "html"]
+}
